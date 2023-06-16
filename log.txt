@@ -1,0 +1,21 @@
+josue@DESKTOP-ME5K651 MINGW64 /c/desarrollo/educacionit/bootcamp-java-universidad-2023/desafio1-educacionit (master)
+$ git log --stat
+commit d0a605314b8bf57fd21975283ffde4fac54b50ad (HEAD -> master)
+Author: josue_delgado <josuedelgado251@gmail.com>
+Date:   Fri Jun 16 19:27:36 2023 -0300
+
+    nuevo archivo
+
+ newfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 594f9516ddb7cceefd21b40c8584884352f0e659 (origin/master)
+Author: josue_delgado <josuedelgado251@gmail.com>
+Date:   Fri Jun 16 19:18:54 2023 -0300
+
+    Creando un README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+
